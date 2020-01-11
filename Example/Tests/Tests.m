@@ -2,8 +2,8 @@
 //  XLComProjectTests.m
 //  XLComProjectTests
 //
-//  Created by yangdawei on 01/10/2020.
-//  Copyright (c) 2020 yangdawei. All rights reserved.
+//  Created by GDXL2012 on 01/10/2020.
+//  Copyright (c) 2020 GDXL2012. All rights reserved.
 //
 
 // https://github.com/Specta/Specta

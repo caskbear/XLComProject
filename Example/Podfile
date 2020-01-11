@@ -12,5 +12,19 @@ target 'XLComProject_Example' do
     pod 'Expecta'
     pod 'FBSnapshotTestCase'
     pod 'Expecta+Snapshots'
+    
+    pod 'AFNetworking'
+    pod 'RegexKitLite'
+    pod 'SDWebImage'
+    #pod 'SDWebImage/WebP'
+    pod 'SDWebImage/GIF'
+    pod 'MBProgressHUD'
+    pod 'Masonry'
+    pod 'MJRefresh'
+    pod 'IQKeyboardManager'
+#    pod 'WCDB'
+    pod 'MJExtension'
+    pod 'Reachability', '~> 3.2'
+    pod 'TZImagePickerController'
   end
 end
